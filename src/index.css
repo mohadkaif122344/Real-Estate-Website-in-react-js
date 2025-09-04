@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+   font-family: Outfit;
+}
+
+
+body {
+  @apply bg-white text-black transition-colors duration-300;
+}
+.dark body {
+  @apply bg-gray-900 text-white;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
+.subtitle{
+  @apply font-bold text-sky-700
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
