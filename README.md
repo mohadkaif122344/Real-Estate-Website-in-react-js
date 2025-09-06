@@ -53,9 +53,9 @@ Vercel
 
 Clone the repository:
 
-git clone https://github.com/your-username/real-estate-website.git
+https://github.com/mohadkaif122344/Real-Estate-Website-in-react-js.git
 
-cd real-estate-website
+cd /Real-Estate-Website-in-react-js.git
 
 
 Install dependencies:
@@ -110,6 +110,7 @@ screenshots of your website here-
 <img width="1902" height="985" alt="Screenshot 2025-09-05 112320" src="https://github.com/user-attachments/assets/a4ee8446-9e62-441b-ada4-c20b5ea5ebee" />
 <img width="1898" height="970" alt="Screenshot 2025-09-05 112351" src="https://github.com/user-attachments/assets/35110010-1c42-48a4-874f-7cbf62f42c8b" />
 <img width="1900" height="958" alt="Screenshot 2025-09-05 112435" src="https://github.com/user-attachments/assets/e8b0d46e-6f0c-492e-9413-81e2812e5ed2" />
+
 
 
 
