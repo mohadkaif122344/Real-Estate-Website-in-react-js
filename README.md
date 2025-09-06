@@ -1,22 +1,26 @@
-🏡 Real Estate Frontend Website Using React js
+Real Estate Frontend Website
 
-This is a responsive real estate frontend website built using Vite + React, styled with Tailwind CSS, and enhanced with animations using Framer Motion. The project is fully responsive across all devices and includes light & dark mode support, multiple pages, and a contact form (integrated with Gmail).
+This is a responsive real estate frontend built with Vite + React, styled using Tailwind CSS, and enhanced with Framer Motion animations. Featuring both dark & light mode, it includes pages like Home, About, Properties, Contact Us (with Gmail contact integration), and Login/Signup UI—without using react-router-dom.
 
-🔗 Live Site: https://my-real-estate-web.vercel.app
+Live & Local URLs
 
-💻 Local Dev URL: http://localhost:5173
+** Live Demo**: my-real-estate-web.vercel.app
 
-🚀 Features
+** Local Development**: http://localhost:5173
 
-⚡ Fast development with Vite + React
+Features
 
-🎨 Modern design using Tailwind CSS
+Built with Vite + React for blazing-fast performance
 
-✨ Smooth animations powered by Framer Motion
+Tailwind CSS for modern styling
 
-🌗 Dark & Light Mode toggle
+Framer Motion for smooth, engaging animations
 
-📑 Pages included:
+Light & Dark Mode toggle
+
+Fully responsive across desktop, tablet, and mobile
+
+Includes pages:
 
 Home
 
@@ -24,89 +28,68 @@ About
 
 Properties
 
-Contact Us (form connected to Gmail)
+Contact Us (email integration via Gmail)
 
-Login / Signup (only UI, no authentication)
+Login / Signup (UI only — no auth logic)
 
-🛠️ Built without react-router-dom (pages rendered conditionally)
+Conditional rendering for navigation—no react-router-dom used
 
-☁️ Deployed on Vercel
+Deployed seamlessly with Vercel
 
-🏗️ Tech Stack
+Tech Stack
 
 Vite
- – Bundler
 
 React
- – UI library
 
 Tailwind CSS
- – Styling
 
 Framer Motion
- – Animations
 
 Vercel
- – Deployment
 
-⚙️ Installation & Setup
-
-Clone the repository:
-
-https://github.com/mohadkaif122344/Real-Estate-Website-in-react-js.git
-
+Installation & Setup
+git clone https://github.com/mohadkaif122344/Real-Estate-Website-in-react-js.git
 cd Real-Estate-Website-in-react-js
-
-
-Install dependencies:
-
 npm install
-
-
-Start development server:
-
 npm run dev
 
 
-Open http://localhost:5173
- in your browser.
+Then open your browser and go to http://localhost:5173
+.
 
-Build for production:
+To build for production:
 
 npm run build
 
 🌍 Deployment
 
-The project is hosted on Vercel.
+This project is deployed on Vercel. To deploy your own version:
 
-Steps:
+1.Push your project to GitHub.
 
-Push your project to GitHub.
+2.Go to Vercel.
 
-Go to Vercel
-.
+3.Import the GitHub repository.
 
-Import your GitHub repository.
+4.Configure:
 
-Configure:
+ .Build Command → npm run build
 
-Build Command → npm run build
+ .Output Directory → dist
 
-Output Directory → dist
-
-Deploy 🚀
+5.Deploy with a custom domain or default Vercel domain.
 
 🔗 Live Site: https://my-real-estate-web.vercel.app
 
-📧 Contact
-
-For inquiries or collaboration, use the Contact Us form on the website.
 
 📸 Preview
 
 screenshots of your website here-
 <img width="1900" height="963" alt="Screenshot 2025-09-05 112519" src="https://github.com/user-attachments/assets/1ede3238-4679-4344-9d9a-3683fbb1be2d" />
 <img width="1904" height="967" alt="Screenshot 2025-09-05 112247" src="https://github.com/user-attachments/assets/8e5289ed-128a-4848-ba89-86bcd9c41c7b" />
+Mobile responsive
+<img width="1897" height="973" alt="Screenshot 2025-09-06 115128" src="https://github.com/user-attachments/assets/4ba32432-0ce8-46af-880b-6975fd44efb2" />
 <img width="1902" height="985" alt="Screenshot 2025-09-05 112320" src="https://github.com/user-attachments/assets/a4ee8446-9e62-441b-ada4-c20b5ea5ebee" />
 <img width="1898" height="970" alt="Screenshot 2025-09-05 112351" src="https://github.com/user-attachments/assets/35110010-1c42-48a4-874f-7cbf62f42c8b" />
 <img width="1900" height="958" alt="Screenshot 2025-09-05 112435" src="https://github.com/user-attachments/assets/e8b0d46e-6f0c-492e-9413-81e2812e5ed2" />
@@ -115,8 +98,9 @@ screenshots of your website here-
 <img width="1889" height="962" alt="Screenshot 2025-09-06 114215" src="https://github.com/user-attachments/assets/ab29b5d3-e577-411e-8285-5ade36e6f25f" />
 
 
+Contact
 
-
+For questions, feedback, or collaboration opportunities, please reach out using the Contact Us form on the website.
 
 
 
