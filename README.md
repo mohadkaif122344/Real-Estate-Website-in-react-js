@@ -48,7 +48,7 @@ Framer Motion
 
 Vercel
 
-Installation & Setup
+###  Installation & Setup  
 git clone https://github.com/mohadkaif122344/Real-Estate-Website-in-react-js.git
 cd Real-Estate-Website-in-react-js
 npm install
@@ -100,6 +100,7 @@ Mobile responsive
 Contact
 
 For questions, feedback, or collaboration opportunities, please reach out using the Contact Us form on the website.
+
 
 
 
