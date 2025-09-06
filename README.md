@@ -85,7 +85,7 @@ This project is deployed on Vercel. To deploy your own version:
 
 ### 📸 Preview:
 
-screenshots of your website here-
+screenshots of our website is here-
 
 <img width="1900" height="963" alt="Screenshot 2025-09-05 112519" src="https://github.com/user-attachments/assets/1ede3238-4679-4344-9d9a-3683fbb1be2d" />
 <img width="1904" height="967" alt="Screenshot 2025-09-05 112247" src="https://github.com/user-attachments/assets/8e5289ed-128a-4848-ba89-86bcd9c41c7b" />
@@ -104,6 +104,7 @@ Mobile responsive
 ### Contact :
 
 For questions, feedback, or collaboration opportunities, please reach out using the Contact Us form on the website.
+
 
 
 
