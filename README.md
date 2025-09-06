@@ -1,6 +1,6 @@
 🏡 Real Estate Frontend Website
 
-This is a frontend real estate website built using Vite + React, styled with Tailwind CSS, and enhanced with animations using Framer Motion. The website includes light & dark mode, multiple pages, and a contact form (integrated with Gmail).
+This is a responsive real estate frontend website built using Vite + React, styled with Tailwind CSS, and enhanced with animations using Framer Motion. The project is fully responsive across all devices and includes light & dark mode support, multiple pages, and a contact form (integrated with Gmail).
 
 🔗 Live Site: https://my-real-estate-web.vercel.app
 
@@ -55,7 +55,7 @@ Clone the repository:
 
 https://github.com/mohadkaif122344/Real-Estate-Website-in-react-js.git
 
-cd /Real-Estate-Website-in-react-js.git
+cd Real-Estate-Website-in-react-js
 
 
 Install dependencies:
@@ -110,6 +110,7 @@ screenshots of your website here-
 <img width="1902" height="985" alt="Screenshot 2025-09-05 112320" src="https://github.com/user-attachments/assets/a4ee8446-9e62-441b-ada4-c20b5ea5ebee" />
 <img width="1898" height="970" alt="Screenshot 2025-09-05 112351" src="https://github.com/user-attachments/assets/35110010-1c42-48a4-874f-7cbf62f42c8b" />
 <img width="1900" height="958" alt="Screenshot 2025-09-05 112435" src="https://github.com/user-attachments/assets/e8b0d46e-6f0c-492e-9413-81e2812e5ed2" />
+
 
 
 
