@@ -100,8 +100,11 @@ Deploy 🚀
 📸 Preview
 
 (Add screenshots of your website here)
+<img width="1900" height="963" alt="Screenshot 2025-09-05 112519" src="https://github.com/user-attachments/assets/1ede3238-4679-4344-9d9a-3683fbb1be2d" />
+
 
 📧 Contact
 
 For inquiries or collaboration, use the Contact Us form on the website.
+
 
