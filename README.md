@@ -1,4 +1,4 @@
-<img width="1893" height="970" alt="Screenshot 2025-09-06 114204" src="https://github.com/user-attachments/assets/2a440154-35d0-46e2-a9ef-7f455c5154e8" />🏡 Real Estate Frontend Website
+🏡 Real Estate Frontend Website Using React js
 
 This is a responsive real estate frontend website built using Vite + React, styled with Tailwind CSS, and enhanced with animations using Framer Motion. The project is fully responsive across all devices and includes light & dark mode support, multiple pages, and a contact form (integrated with Gmail).
 
@@ -113,6 +113,7 @@ screenshots of your website here-
 <img width="1895" height="974" alt="Screenshot 2025-09-05 112448" src="https://github.com/user-attachments/assets/eed9c42e-6c2a-46ff-9f06-ed91b0e624e6" />
 <img width="1893" height="970" alt="Screenshot 2025-09-06 114204" src="https://github.com/user-attachments/assets/d799c198-00f3-4d2e-8c92-e8d37ec8935f" />
 <img width="1889" height="962" alt="Screenshot 2025-09-06 114215" src="https://github.com/user-attachments/assets/ab29b5d3-e577-411e-8285-5ade36e6f25f" />
+
 
 
 
