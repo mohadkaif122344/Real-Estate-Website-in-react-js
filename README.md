@@ -1,12 +1,12 @@
-Real Estate Frontend Website
+ #Real Estate Frontend Website
 
 This is a responsive real estate frontend built with Vite + React, styled using Tailwind CSS, and enhanced with Framer Motion animations. Featuring both dark & light mode, it includes pages like Home, About, Properties, Contact Us (with Gmail contact integration), and Login/Signup UI—without using react-router-dom.
 
 Live & Local URLs
 
-** Live Demo**: my-real-estate-web.vercel.app
+** 🔗 Live Site: https://my-real-estate-web.vercel.app
 
-** Local Development**: http://localhost:5173
+** Local Dev URL: http://localhost:5173
 
 Features
 
@@ -55,8 +55,7 @@ npm install
 npm run dev
 
 
-Then open your browser and go to http://localhost:5173
-.
+Then open your browser and go to http://localhost:5173.
 
 To build for production:
 
@@ -101,6 +100,7 @@ Mobile responsive
 Contact
 
 For questions, feedback, or collaboration opportunities, please reach out using the Contact Us form on the website.
+
 
 
 
